@@ -1,0 +1,15 @@
+.Title {
+  text-align: center;
+}
+
+.MB20 {
+  margin-bottom: 20px;
+}
+
+.Table_Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
